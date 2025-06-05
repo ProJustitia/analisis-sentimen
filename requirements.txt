@@ -1,0 +1,6 @@
+google-play-scraper==1.0.4
+pandas==1.5.3
+joblib==1.2.0
+scikit-learn==1.2.2
+nltk==3.8.1
+
